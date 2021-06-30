@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name="sentry-c3-wxwork",
+    name="Sentry-c3-WxWork",
     version='1.0.0',
     author='c3jbz',
     author_email='18608411988@163.com',
